@@ -1,1 +1,2 @@
 # FindboligActivator
+The findbolig activator is a selenium based utility for signing up for apartments after you've been deemed 'inactive' on findbolig.nu. PFA refuses to fix their terrible website, and getting deemed inactive because of their dysfunctional notification system is one of the most common frustrations for users of the site. This tool works around that by signing you up automatically.
